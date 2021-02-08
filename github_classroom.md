@@ -1,7 +1,7 @@
--Dec 28, 2020
+-Feb 12, 2021
 
-# Bitcoin Transaction Graph Analysis
-<h6>A summary of 2015 research paper by Michael Fleder, Michael S. Kester, Sudeep Pillai  </h6> <br>
+# GitHub Classroom
+<h6>A critique of GitHub Classroom  </h6> <br>
 
 <h6>[Background and Problem]</h6> 
 Bitcoin has gained popularity over a period of time in terms of trading electronically using cryptocurrency. It uses a public distributed ledger to keep track of all the transactions in Bitcoin network. In Bitcoin blockchain system, users are identified based on their cryptographic public addresses. This feature made users think that their anonymity is preserved. However, some recent studies prove that it certainly has some privacy concerns. In this paper, authors try to break anonymity in Bitcoin systems using graph analysis. The authors first try to link public keys to actual user’s names and then create a users graph and come up with a summary of users activity which can help any attacker to break the privacy
