@@ -3,12 +3,9 @@
 # GitHub Classroom
 <h6>A critique of GitHub Classroom  </h6> <br>
 
-During this time of pandemic, the need of technologies that can help in teaching online has increased rapidly. GitHub Classroom is one of the many tools available online to help teachers to manage and organise their classes. GitHub classroom is a product line released by GitHub in 2015[1].
+During this pandemic, the need for technologies that can help in teaching online has increased rapidly. GitHub Classroom is one of the many tools available online that allow teachers to manage and organize their classes. GitHub classroom is a product line released by GitHub in 2015[1]. It can primarily be used for sending out assignments to the students, provide them with the starter code and feedback. It requires the users, which can either be teachers, students, or TAs, to have prior knowledge of how GitHub works and what is it used for.
 
-<h6>[Methodology]</h6> 
-In the threat model used for research, it is assumed that attacker has access to all the information available online and attacker can overhear transactions which may not be 100% accurate. Following methods were used to find the data: 
-* Scraper is used to fetch information such as Bitcoin addresses from public forums available on web which is shared by users willingly or unwillingly. Usernames available in  public forums were then linked with their Cryptographic Bitcoin addresses
-* That information is then linked to the transactions in Bitcoin.
+To use with GitHub classroom, teachers need to work with GitHub and GitHub Classroom in parallel. To start with, teachers and students need to sign up in GitHub. Teachers can then use the same account for GitHub Classrooms to manage their classes. First, an organisation is created in GitHub. Organization is nothing but an umbrella under which various classrooms can be created and access to these classrooms can be managed at a higher level. After that, a repository can be created before publishing any assignment. This repository will contain all the starter code which can be used as a base code by the students while solving the assignment. Once this is all set up, teachers can then Sign in to GitHub classroom and create a classroom by selecting onr of the organisations they have created in their GitHub account. While creating a classroom, they also have an option to invite TA's and admins to the organisation. Next, a URL(of the classroom) is sent to them to join the classroom. One of the interesting features provided by GitHub classroom is the integration with third-party Learning Management Systems such as Google Classroom, Canvas, Sakai etc. This integration allows automatic import of roster to the class. Alternatives to add student roster could be the manula entry of student's IDs or uploading a CSV/text files.
 
  ![Image of Attack Model](pics/AttackModel.PNG)<br>
  <b>Figure 1</b>: <i>Attack Model</i>[2]</i>
