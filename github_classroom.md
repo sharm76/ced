@@ -3,8 +3,7 @@
 # GitHub Classroom
 <h6>A critique of GitHub Classroom  </h6> <br>
 
-<h6>[Background and Problem]</h6> 
-Bitcoin has gained popularity over a period of time in terms of trading electronically using cryptocurrency. It uses a public distributed ledger to keep track of all the transactions in Bitcoin network. In Bitcoin blockchain system, users are identified based on their cryptographic public addresses. This feature made users think that their anonymity is preserved. However, some recent studies prove that it certainly has some privacy concerns. In this paper, authors try to break anonymity in Bitcoin systems using graph analysis. The authors first try to link public keys to actual user’s names and then create a users graph and come up with a summary of users activity which can help any attacker to break the privacy
+During this time of pandemic, the need of technologies that can help in teaching online has increased rapidly. GitHub Classroom is one of the many tools available online to help teachers to manage and organise their classes. GitHub classroom is a product line released by GitHub in 2015[1].
 
 <h6>[Methodology]</h6> 
 In the threat model used for research, it is assumed that attacker has access to all the information available online and attacker can overhear transactions which may not be 100% accurate. Following methods were used to find the data: 
@@ -47,5 +46,5 @@ Click [here](https://github.com/sharm76/7570-blockchain/blob/master/Class%20Note
 
 
 <h6>[References]</h6>
-[1] https://blockchain.info/charts/market-price, December 12, 2013<br>
+[1] https://en.wikipedia.org/wiki/Timeline_of_GitHub<br>
 [2] Bitcoin Transaction Graph Analysis, Michael Fleder, Michael S. Kester, Sudeep Pillai, 2015
