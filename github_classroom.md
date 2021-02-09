@@ -16,7 +16,7 @@ To use the GitHub classroom, teachers need to work with GitHub and GitHub Classr
 
 <kbd>
   <img alt="GitHub Classroom-LMS" src="pics/LMS.PNG">
-</kbd>
+</kbd><br>
 
 
 
@@ -25,7 +25,7 @@ After creating the classroom, assignments can be created for that particular cla
 
 <kbd>
   <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
-</kbd>
+</kbd><br>
 
 
 
@@ -34,7 +34,7 @@ Autograding feature is of the GitHub classroom can be used to set test cases by 
 
 <kbd>
   <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
-</kbd>
+</kbd><br>
 
 
 
