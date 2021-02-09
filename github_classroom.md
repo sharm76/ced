@@ -11,7 +11,7 @@ GitHub Classroom is one of the many tools available online that allow teachers t
 
 To use the GitHub classroom, teachers need to work with GitHub and GitHub Classroom in parallel. Teachers and students need to first sign up on GitHub. Teachers can then use the same account for GitHub Classrooms to manage their classes. First, an organization is created in GitHub which is nothing but an umbrella under which various classrooms can be created along with some high-level settings. After that, a repository can be created before publishing any assignment. This repository will contain all the starter code which can be used as a base code by the students while solving the assignment. Once this is all set up, teachers can then Sign in to the GitHub classroom and create a classroom by selecting one of the organizations they have created in their GitHub account. While creating a classroom, they also have an option to invite TA's and admins to the organization. After the invitation, they also need to send a URL (of the classroom) to join the classroom, which seems to be redundant. One of the interesting features provided by GitHub classroom is the integration with third-party Learning Management Systems such as Google Classroom, Canvas, Sakai, etc. This integration allows the automatic import of the roster to the class. Alternatively, they can also add the student roster manually or by uploading CSV/text files.
  
-<kbd style="margin:50px;">
+<kbd>
   <img alt="GitHub Classroom-LMS" src="pics/LMS.PNG">
 </kbd>
 
