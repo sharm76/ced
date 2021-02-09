@@ -11,7 +11,7 @@ GitHub Classroom is one of the many tools available online that allow teachers t
 </kbd>
 
 
-To use the GitHub classroom, teachers need to work with GitHub and GitHub Classroom in parallel. Teachers and students need to first sign up on GitHub. Teachers can then use the same account for GitHub Classrooms to manage their classes. First, an organization is created in GitHub which is nothing but an umbrella under which various classrooms can be created along with some high-level settings. After that, a repository can be created before publishing any assignment. This repository will contain all the starter code which can be used as a base code by the students while solving the assignment. Once this is all set up, teachers can then Sign in to the GitHub classroom and create a classroom by selecting one of the organizations they have created in their GitHub account. While creating a classroom, they also have an option to invite TA's and admins to the organization. After the invitation, they also need to send a URL (of the classroom) to join the classroom, which seems to be redundant. One of the interesting features provided by GitHub classroom is the integration with third-party Learning Management Systems such as Google Classroom, Canvas, Sakai, etc. This integration allows the automatic import of the roster to the class. Alternatively, they can also add the student roster manually or by uploading CSV/text files. <br>
+To use the GitHub classroom, teachers need to work with GitHub and GitHub Classroom in parallel. Teachers and students need to first sign up on GitHub. Teachers can then use the same account for GitHub Classrooms to manage their classes. First, an organization is created in GitHub which is nothing but an umbrella under which various classrooms can be created along with some high-level settings. After that, a repository can be created before publishing any assignment. This repository will contain all the starter code which can be used as a base code by the students while solving the assignment. Once this is all set up, teachers can then Sign in to the GitHub classroom and create a classroom by selecting one of the organizations they have created in their GitHub account. While creating a classroom, they also have an option to invite TA's and admins to the organization. After the invitation, they also need to send a URL (of the classroom) to join the classroom, which seems to be redundant. One of the interesting features provided by GitHub classroom is the integration with third-party Learning Management Systems such as Google Classroom, Canvas, Sakai, etc. This integration allows the automatic import of the roster to the class. Alternatively, they can also add the student roster manually or by uploading CSV/text files.
  
 
 <kbd>
@@ -20,12 +20,12 @@ To use the GitHub classroom, teachers need to work with GitHub and GitHub Classr
 
 
 
-After creating the classroom, assignments can be created for that particular classroom. An assignment can be configured by setting the title of the assignment, its deadline (i.e. date & time), and selecting whether it is an individual assignment or group assignment. Teachers can then link their repository that contains boilerplate code with the assignment. There is another interesting feature available that allows teachers to integrate one of the two online IDEs i.e. Microsoft MakeCode or Repl.it with an assignment. The URL of the assignment is then shared with the students of the class via email or some other mode of communication because GitHub or GitHub classroom does not have any provision to do so.<br> 
+After creating the classroom, assignments can be created for that particular classroom. An assignment can be configured by setting the title of the assignment, its deadline (i.e. date & time), and selecting whether it is an individual assignment or group assignment. Teachers can then link their repository that contains boilerplate code with the assignment. There is another interesting feature available that allows teachers to integrate one of the two online IDEs i.e. Microsoft MakeCode or Repl.it with an assignment. The URL of the assignment is then shared with the students of the class via email or some other mode of communication because GitHub or GitHub classroom does not have any provision to do so.
 
 
 <kbd>
   <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
-</kbd><br>
+</kbd>
 
 
 
@@ -36,7 +36,7 @@ Autograding feature is of the GitHub classroom can be used to set test cases by 
 
 <kbd>
   <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
-</kbd><br>
+</kbd>
 
 
 
