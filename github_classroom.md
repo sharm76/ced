@@ -12,6 +12,13 @@ For every student (or group if it is a group assignment) that accepts this assig
 
 Autograding feature is also available in GitHub classroom in which teachers can set test cases by adding inputs and corresponsing outputs along with the setup and run command. To ensure that any test case does not run infinitely, set timeout option is used. Point for each test case passes can be added while creating the test case. 
 
+To summarize, GitHub classroom is most suitable for working out on assignments with Computer Science students who have prior knowledge of GitHub and know the purpose of it. Code sharing becomes easier with this tool and people who really enjoy coding will love it. It allows continuous feedbacks from teachers. Teachers can assess the contribution of individuals in a group project and also see graphical insights of their performance in GitHub. Procrastinators need to watch out because teachers can see the progress anytime. Users need to work with both GitHub and GitHub classroom in parallel. 
+
+Various communities that support GitHUb classroom are as follows:
+* https://education.github.community/ which allows you to communicate with other teachers who are using this tool.
+* https://docs.github.com/en/education contains all the documentation you need to use GitHub Classroom.
+* https://lab.github.com/ to learn more about GitHub and its product lines.
+* https://support.github.com/contact/education to contact with GitHub support.
 
  ![Image of Attack Model](pics/AttackModel.PNG)<br>
  <b>Figure 1</b>: <i>Attack Model</i>[2]</i>
