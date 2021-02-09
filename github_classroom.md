@@ -27,7 +27,7 @@ For every student (or group if it is a group assignment) that accepts this assig
 
 GitHub classroom is most suitable for CS students who have prior knowledge of GitHub and know its purpose. Codesharing becomes easier with this tool and people who enjoy coding will love it. It allows continuous feedback from teachers. Teachers can easily assess the contribution of each individual in a group project and also see graphical insights of their performance in GitHub. Procrastinators need to be careful because teachers can see the time and progress of their assignments anytime.
 
-Following are the websites which can help users to get started with GitHub Classroom and to interact with their support team.
+Following are the websites which can help users to get started with GitHub Classroom and to get in touch with their support team.
 * https://education.github.community/ to interact with other teachers who are using this tool.
 * https://docs.github.com/en/education contains all the documentation.
 * https://lab.github.com/ to learn more about GitHub and its product lines.
