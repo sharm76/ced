@@ -15,7 +15,7 @@ To use the GitHub classroom, teachers need to work with GitHub and GitHub Classr
 <br>
 After creating the classroom, assignments can be created for that particular classroom. An assignment can be configured by setting the title of the assignment, its deadline (i.e. date & time), and selecting whether it is an individual assignment or group assignment. Teachers can then link their repository that contains boilerplate code with the assignment. There is another interesting feature available that allows teachers to integrate one of the two online IDEs i.e. Microsoft MakeCode or Repl.it with an assignment. The URL of the assignment is then shared with the students of the class via email or some other mode of communication because GitHub or GitHub classroom does not have any provision to do so.
 <br>
----
+<hr/>
  ![GitHub Classroom-Online_IDEs](pics/Online_IDEs.PNG)<br>
 <br>
 <br>
