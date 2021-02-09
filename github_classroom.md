@@ -17,7 +17,7 @@ After creating the classroom, assignments can be created for that particular cla
  ![GitHub Classroom-Online_IDEs](pics/Online_IDEs.PNG)<br>
 <br>
 <br>
-Autograding feature is also available in the GitHub classroom in which teachers can set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that any test case does not run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case. 
+Autograding feature is of the GitHub classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that any test case does not run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case. 
 <br>
  ![GitHub Classroom-Autograding](pics/Autograding.PNG)<br>
  <br>
