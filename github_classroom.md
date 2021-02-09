@@ -17,7 +17,7 @@ To use the GitHub classroom, teachers need to work with GitHub and GitHub Classr
 <kbd>
   <img alt="GitHub Classroom-LMS" src="pics/LMS.PNG">
 </kbd>
-<br>
+
 
 
 After creating the classroom, assignments can be created for that particular classroom. An assignment can be configured by setting the title of the assignment, its deadline (i.e. date & time), and selecting whether it is an individual assignment or group assignment. Teachers can then link their repository that contains boilerplate code with the assignment. There is another interesting feature available that allows teachers to integrate one of the two online IDEs i.e. Microsoft MakeCode or Repl.it with an assignment. The URL of the assignment is then shared with the students of the class via email or some other mode of communication because GitHub or GitHub classroom does not have any provision to do so.<br> 
@@ -26,7 +26,7 @@ After creating the classroom, assignments can be created for that particular cla
 <kbd>
   <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
 </kbd>
-<br>
+
 
 
 Autograding feature is of the GitHub classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that any test case does not run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.<br>
@@ -35,7 +35,7 @@ Autograding feature is of the GitHub classroom can be used to set test cases by 
 <kbd>
   <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
 </kbd>
-<br>
+
 
 
 For every student (or group if it is a group assignment) that accepts this assignment, a repository will be created under the student's account. The repository can be public or private as selected by the teacher while creating the assignment. Students can then download the starter code in their repository and start making changes to the code. If an online IDE has been linked with the assignment, students can open that IDE from README.md and work on it. Once the assignment is done, students can commit changes to the repository which will make the changes visible to the teacher. The teacher can provide feedback and grades (if autograding feature is not used) to the students for that particular assignment.
