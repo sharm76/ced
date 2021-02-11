@@ -26,7 +26,7 @@
 <p align="center">
   <kbd>
     <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
-  </kbd>
+  </kbd><br>
   <em>Connecting student's repository with an Online IDE</em>
 </p>
 
