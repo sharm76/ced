@@ -23,12 +23,15 @@
 
 <br>After creating the classroom, assignments can be created for that particular classroom. An assignment can be configured by setting the title of the assignment, its deadline (i.e. date & time), and selecting whether it is an individual assignment or group assignment. Instructors can also link a repository that contains boilerplate code with the assignment which will be used by students while solving the assignment. There is another interesting feature available that allows instructors to integrate one of the two online IDEs i.e. Microsoft MakeCode or Repl.it with an assignment. The URL of the assignment is then shared with the students.
 
+<p align="center">
 <kbd>
-  <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG" align="center">
+  <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
 </kbd>
+  </p>
 <p align="center">
     <em>Connecting student's repository with an Online IDE</em>
 </p>
+
 
 <br>Autograding feature of the GitHub Classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that no test case run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.
 
