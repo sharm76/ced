@@ -9,7 +9,7 @@ Monika Sharma
 
 <p align="right">
  <kbd>
-  <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="200">
+  <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="500">
 </kbd>
  
 </p>
