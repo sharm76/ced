@@ -36,6 +36,3 @@ GitHub Classroom is most suitable for CS students who have prior knowledge of Gi
 
 GitHub has a customer support forum at [https://support.github.com/contact/education](https://support.github.com/contact/education). Documentation for GitHub Classroom can be found at [https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom).
 
-
-<h6>[References]</h6>
-[1] https://en.wikipedia.org/wiki/Timeline_of_GitHub<br>
