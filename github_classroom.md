@@ -31,7 +31,7 @@
 </p>
 
 
-<br><b>Autograding</b> feature of the GitHub Classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that no test case run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.
+<br><b>Autograding</b> feature of the GitHub Classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that no test case runs infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.
 <p align="center">
   <kbd>
     <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
@@ -41,7 +41,7 @@
 
 <br>For every student (or group if it is a group assignment) that accepts this assignment, a repository will be created under the student's account. The repository can be public or private as selected by the instructor while creating the assignment. Students can then download the starter code, if made available by the instructor, in their repository and start making changes to the code. If an online IDE has been linked with the assignment, students can open that IDE from README.md and work on it. Once the assignment is done, students can commit changes to the repository which will make the changes visible to the instructor. The instructor can then provide feedback and grades (if autograding feature is not used) to the students.
 
-GitHub Classroom is most suitable for CS students who have prior knowledge of GitHub and know its purpose. Code sharing becomes easier with this tool and people who enjoy coding will love it. It allows continuous feedback from instructors. Instructors can easily assess the contribution of each individual in a group project and also see graphical insights of their performance in GitHub. Procrastinators need to be careful because instructors can see the time and progress of their assignments anytime. Working with two product lines at the same time can be confusing for the instructors in the beginning but once they get used to it, it might be an interesting tool. For students, it can provide an exposure to one of the most popular Version Control System used by industries.
+GitHub Classroom is most suitable for CS students who have prior knowledge of GitHub and know its purpose. Code sharing becomes easier with this tool and people who enjoy coding will love it. It allows continuous feedback from instructors. Instructors can easily assess the contribution of each individual in a group project and also see graphical insights of their performance in GitHub. Procrastinators need to be careful because instructors can see the time and progress of their assignments anytime. Working with two product lines at the same time can be confusing for the instructors in the beginning but once they get used to it, it might be an interesting tool. For students, it can provide exposure to one of the most popular Version Control System used by industries.
 
 GitHub has a customer support forum at [https://support.github.com/contact/education](https://support.github.com/contact/education). Documentation for GitHub Classroom can be found at [https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom).
 
