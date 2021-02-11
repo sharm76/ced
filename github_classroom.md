@@ -26,6 +26,9 @@
 <kbd>
   <img alt="GitHub Classroom-Online_IDEs" src="pics/Online_IDEs.PNG">
 </kbd>
+<p align="center">
+    <em>Connecting student's repository with Online IDEs</em>
+</p>
 
 <br>Autograding feature of the GitHub Classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that no test case run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.
 
