@@ -3,8 +3,8 @@
 
 
 <p>
-FEBRUARY 9, 2021 <br>
-Monika Sharma<br>
+  <h6>FEBRUARY 9, 2021</h6><br>
+  <h6>Monika Sharma<h6><br>
 <br><kbd>
     <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" align="right">
 </kbd>
