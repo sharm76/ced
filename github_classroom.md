@@ -4,12 +4,9 @@
 
 <p>
 FEBRUARY 9, 2021 <br>
-Monika Sharma
-<p align="right">
-<kbd>
-  <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="800">
-</kbd>
- </p>
+Monika Sharma<kbd>
+                <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="800">
+            </kbd>
 
 </p>
 
