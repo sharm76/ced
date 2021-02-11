@@ -1,11 +1,9 @@
--Feb 12, 2021
-
 # GitHub Classroom
 <br>
 
 GitHub Classroom is one of the many tools available online that allow teachers to manage and organize their classes. GitHub classroom is a product line released by GitHub in 2015[[1](https://en.wikipedia.org/wiki/Timeline_of_GitHub)]. It can primarily be used for sending out assignments to the students, provide them with the starter code and feedback. It requires the users, which can either be teachers, students, or TAs, to have prior knowledge of how GitHub works and what is it used for.
  
-<kbd>
+FEBRUARY 9, 2021 <kbd>
   <img alt="GitHub Classroom" src="pics/Git_classroom.PNG">
 </kbd>
 
