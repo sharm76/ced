@@ -34,12 +34,13 @@
 
 
 <br>Autograding feature of the GitHub Classroom can be used to set test cases by adding inputs and corresponding outputs along with the setup and run command while creating the assignment. To ensure that no test case run infinitely, the timeout option is used. Points earned for each passed test case can be added while creating the test case.
-
-<kbd>
-  <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
-</kbd>
 <p align="center">
-      <em>Various grading methods</em>
+  <kbd>
+    <img alt="GitHub Classroom-Autograding" src="pics/Autograding.PNG">
+  </kbd>
+  <p align="center">
+        <em>Various grading methods</em>
+  </p>
 </p>
 
 <br>For every student (or group if it is a group assignment) that accepts this assignment, a repository will be created under the student's account. The repository can be public or private as selected by the instructor while creating the assignment. Students can then download the starter code, if made available by the instructor, in their repository and start making changes to the code. If an online IDE has been linked with the assignment, students can open that IDE from README.md and work on it. Once the assignment is done, students can commit changes to the repository which will make the changes visible to the instructor. The instructor can then provide feedback and grades (if autograding feature is not used) to the students.
