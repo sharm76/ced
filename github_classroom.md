@@ -6,7 +6,7 @@
 FEBRUARY 9, 2021 <br>
 Monika Sharma<br>
 <br><kbd>
-    <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="800" align="right">
+    <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" align="right">
 </kbd>
 </p>
 
