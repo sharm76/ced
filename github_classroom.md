@@ -2,8 +2,9 @@
 <br>
 
 
-<p>
+
 FEBRUARY 9, 2021 <br>
+<p>
 Monika Sharma<kbd>
                 <img alt="GitHub Classroom" src="pics/Git_classroom.PNG" width="800">
             </kbd>
